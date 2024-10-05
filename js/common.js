@@ -9,7 +9,7 @@ let projectData = [
     {
       subject : 'SAVISION',
       desc: '귀여운 픽토그램들과 건강한 습관을 만들어보세요.',
-      imgSrc : ['./img/SAVISION_thum.png','./img/SAVISION.png'],
+      imgSrc : ['./img/SAVISION_thum.png','./img/SAVISION_01.png','./img/SAVISION_02.png','./img/SAVISION_03.png','./img/SAVISION_04.png','./img/SAVISION_05.png','./img/SAVISION_06.png','./img/SAVISION_07.png','./img/SAVISION_08.png'],
       //direction: 'half'
     },
     {
