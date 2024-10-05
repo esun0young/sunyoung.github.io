@@ -20,7 +20,7 @@ let projectData = [
     {
       subject : 'MY ROOM',
       desc: '인테리어 VR 시뮬레이션',
-      imgSrc : ['./img/myroom_thum.png','./img/MY ROOM_thum.png', './img/MY ROOM.png' ],
+      imgSrc : ['./img/MYROOM_thum.png','./img/MYROOM_01.png','./img/MYROOM_02.png','./img/MYROOM_03.png','./img/MYROOM_04.png','./img/MYROOM_05.png','./img/MYROOM_06.png','./img/MYROOM_07.png'],
     },
     {
       subject : 'Flory',
