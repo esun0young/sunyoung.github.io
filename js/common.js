@@ -15,7 +15,7 @@ let projectData = [
     {
       subject : '막거리 한잔, 추억 한잔',
       desc: '인포그래픽스',
-      imgSrc : ['./img/막걸리_thum.png', './img/막걸리.png'],
+      imgSrc : ['./img/Makgeolli_thum.png', './img/Makgeolli_01.png', './img/Makgeolli_02.png', './img/Makgeolli_03.png', './img/Makgeolli_04.png', './img/Makgeolli_05.png'],
     },
     {
       subject : 'MY ROOM',
