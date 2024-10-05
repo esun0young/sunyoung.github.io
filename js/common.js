@@ -3,7 +3,7 @@ let projectData = [
     {
       subject : 'MeNEW',
       desc: '매일매일 새로운 메뉴',
-      imgSrc : ['./img/MeNEW_thum.png','./img/MeNEW.png'],
+      imgSrc : ['./img/MeNEW_thum.png','./img/MeNEW_01.png','./img/MeNEW_02.png','./img/MeNEW_03.png','./img/MeNEW_04.png','./img/MeNEW_05.png','./img/MeNEW_06.png','./img/MeNEW_07.png','./img/MeNEW_08.png','./img/MeNEW_09.png','./img/MeNEW_10.png','./img/MeNEW_11.png','./img/MeNEW_12.png','./img/MeNEW_13.png','./img/MeNEW_14.png','./img/MeNEW_15.png','./img/MeNEW_16.png'],
       //direction: 'half'
     },
     {
