@@ -25,7 +25,7 @@ let projectData = [
     {
       subject : 'Flory',
       desc: '나의 마음을 전할 수 있는 꽃다발',
-      imgSrc : ['./img/Flory_thum.png','./img/Flory.png'],
+      imgSrc : ['./img/Flory_thum.png','./img/Flory_01.png','./img/Flory_02.png','./img/Flory_03.png','./img/Flory_04.png','./img/Flory_05.png','./img/Flory_06.png','./img/Flory_07.png','./img/Flory_08.png','./img/Flory_09.png','./img/Flory_10.png','./img/Flory_11.png','./img/Flory_12.png','./img/Flory_13.png','./img/Flory_14.png'],
     },
   ]
 
