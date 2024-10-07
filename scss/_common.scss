@@ -1,0 +1,21 @@
+
+body, input, textarea, select, button, table {
+    font-family: 'articulat-cf', 'omnigothic', sans-serif ;
+    color: #fff;
+	background: #000;
+
+    //input, textarea, select, button, table => 폰트 설정을 상속받지 않아서 따로 적어야 한다.
+}
+
+.screen_out{
+    overflow: hidden;
+    position: absolute;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    text-indent: -99999px;
+}
+
+.non_scroll {
+    overflow: hidden; 
+}
