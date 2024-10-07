@@ -402,7 +402,6 @@
 .project_list {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-   // grid-template-rows: repeat(3, 1fr);x
     grid-template-rows: auto;
     gap: 20px;
     .project-card {
