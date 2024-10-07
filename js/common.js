@@ -1,6 +1,5 @@
 /* 프로젝트 데이터 */
 let projectData = [
-   let projectData = [
   {
     subject : 'MeNEW',
     desc: '매일매일 새로운 메뉴',
@@ -28,7 +27,12 @@ let projectData = [
     desc: '인포그래픽스',
     imgSrc : ['./img/Makgeolli_thum.png','./img/Luxury_01.png','./img/Luxury_02.png','./img/Luxury_03.png','./img/Luxury_04.png','./img/Luxury_05.png','./img/Luxury_06.png','./img/Luxury_07.png','./img/Luxury_08.png','./img/Luxury_09.png','./img/Luxury_10.png','./img/Luxury_11.png','./img/Luxury_12.png','./img/Luxury_13.png'],
   },
-  ]
+  {
+   subject : '왜 명품인가?',
+    desc: '인포그래픽스',
+    imgSrc : ['./img/Luxury_thum.png', './img/Makgeolli_01.png', './img/Makgeolli_02.png', './img/Makgeolli_03.png', './img/Makgeolli_04.png', './img/Makgeolli_05.png'],
+  },
+]
 
   /* 포트폴리오 리스트 생성하기 */
     projectData.forEach((data)=> {
