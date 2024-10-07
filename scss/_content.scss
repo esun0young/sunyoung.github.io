@@ -465,6 +465,7 @@
     }
     @include m.tablet  {
         grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: auto;
         gap: 24px;
         .project-card {
             &:nth-child(1) {
