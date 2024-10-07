@@ -13,14 +13,14 @@ let projectData = [
     //direction: 'half'
   },
   {
-    subject : 'MY ROOM',
-    desc: '인테리어 VR 시뮬레이션',
-    imgSrc : ['./img/MYROOM_thum.png','./img/MYROOM_01.png','./img/MYROOM_02.png','./img/MYROOM_03.png','./img/MYROOM_04.png','./img/MYROOM_05.png','./img/MYROOM_06.png','./img/MYROOM_07.png'],
-  },
-  {
     subject : 'Flory',
     desc: '나의 마음을 전할 수 있는 꽃다발',
     imgSrc : ['./img/Flory_thum.png','./img/Flory_01.png','./img/Flory_02.png','./img/Flory_03.png','./img/Flory_04.png','./img/Flory_05.png','./img/Flory_06.png','./img/Flory_07.png','./img/Flory_08.png','./img/Flory_09.png','./img/Flory_10.png','./img/Flory_11.png','./img/Flory_12.png','./img/Flory_13.png','./img/Flory_14.png'],
+  },
+  {
+    subject : 'MY ROOM',
+    desc: '인테리어 VR 시뮬레이션',
+    imgSrc : ['./img/MYROOM_thum.png','./img/MYROOM_01.png','./img/MYROOM_02.png','./img/MYROOM_03.png','./img/MYROOM_04.png','./img/MYROOM_05.png','./img/MYROOM_06.png','./img/MYROOM_07.png'],
   },
   {
     subject : '막거리 한잔, 추억 한잔',
@@ -33,7 +33,6 @@ let projectData = [
     imgSrc : ['./img/Luxury_thum.png', './img/Makgeolli_01.png', './img/Makgeolli_02.png', './img/Makgeolli_03.png', './img/Makgeolli_04.png', './img/Makgeolli_05.png'],
   },
 ]
-
   /* 포트폴리오 리스트 생성하기 */
     projectData.forEach((data)=> {
         let img
