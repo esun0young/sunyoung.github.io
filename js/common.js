@@ -6,31 +6,31 @@ let projectData = [
     imgSrc : ['./img/MeNEW_thum.png','./img/MeNEW_01.png','./img/MeNEW_02.png','./img/MeNEW_03.png','./img/MeNEW_04.png','./img/MeNEW_05.png','./img/MeNEW_06.png','./img/MeNEW_07.png','./img/MeNEW_08.png','./img/MeNEW_09.png','./img/MeNEW_10.png','./img/MeNEW_11.png','./img/MeNEW_12.png','./img/MeNEW_13.png','./img/MeNEW_14.png','./img/MeNEW_15.png','./img/MeNEW_16.png'],
     //direction: 'half'
   },
-  {
+    {
     subject : 'SAVISION',
     desc: '귀여운 픽토그램들과 건강한 습관을 만들어보세요.',
     imgSrc : ['./img/SAVISION_thum.png','./img/SAVISION_01.png','./img/SAVISION_02.png','./img/SAVISION_03.png','./img/SAVISION_04.png','./img/SAVISION_05.png','./img/SAVISION_06.png','./img/SAVISION_07.png','./img/SAVISION_08.png'],
     //direction: 'half'
   },
-  {
+    {
+    subject : '막거리 한잔, 추억 한잔',
+    desc: '인포그래픽스',
+    imgSrc : ['./img/Makgeolli_thum.png','./img/Makgeolli_01.png', './img/Makgeolli_02.png', './img/Makgeolli_03.png', './img/Makgeolli_04.png', './img/Makgeolli_05.png'],
+  },
+    {
     subject : 'MY ROOM',
     desc: '인테리어 VR 시뮬레이션',
     imgSrc : ['./img/MYROOM_thum.png','./img/MYROOM_01.png','./img/MYROOM_02.png','./img/MYROOM_03.png','./img/MYROOM_04.png','./img/MYROOM_05.png','./img/MYROOM_06.png','./img/MYROOM_07.png'],
   },
-  {
+    {
     subject : 'Flory',
     desc: '나의 마음을 전할 수 있는 꽃다발',
     imgSrc : ['./img/Flory_thum.png','./img/Flory_01.png','./img/Flory_02.png','./img/Flory_03.png','./img/Flory_04.png','./img/Flory_05.png','./img/Flory_06.png','./img/Flory_07.png','./img/Flory_08.png','./img/Flory_09.png','./img/Flory_10.png','./img/Flory_11.png','./img/Flory_12.png','./img/Flory_13.png','./img/Flory_14.png'],
   },
-  {
-    subject : '막거리 한잔, 추억 한잔',
-    desc: '인포그래픽스',
-    imgSrc : ['./img/Makgeolli_thum.png','./img/Luxury_01.png','./img/Luxury_02.png','./img/Luxury_03.png','./img/Luxury_04.png','./img/Luxury_05.png','./img/Luxury_06.png','./img/Luxury_07.png','./img/Luxury_08.png','./img/Luxury_09.png','./img/Luxury_10.png','./img/Luxury_11.png','./img/Luxury_12.png','./img/Luxury_13.png'],
-  },
-  {
+    {
     subject : '왜 명품인가?',
     desc: '인포그래픽스',
-    imgSrc : ['./img/Luxury_thum.png', './img/Makgeolli_01.png', './img/Makgeolli_02.png', './img/Makgeolli_03.png', './img/Makgeolli_04.png', './img/Makgeolli_05.png'],
+    imgSrc : ['./img/Luxury_thum.png', './img/Luxury_01.png','./img/Luxury_02.png','./img/Luxury_03.png','./img/Luxury_04.png','./img/Luxury_05.png','./img/Luxury_06.png','./img/Luxury_07.png','./img/Luxury_08.png','./img/Luxury_09.png','./img/Luxury_10.png','./img/Luxury_11.png','./img/Luxury_12.png','./img/Luxury_13.png'],
   },
   ]
 
